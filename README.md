@@ -46,8 +46,8 @@ The project includes:
     - Availability and performance assessment
 
   - **Standards Compliance**
+
     Verification against ITU-R constraints:
-  
     - SESR (Severely Errored Second Ratio)
     - BBER (Background Block Error Ratio)
     - ESR (Errored Second Ratio)
