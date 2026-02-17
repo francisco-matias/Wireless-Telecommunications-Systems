@@ -26,26 +26,26 @@ The final solution includes an active repeater at Serra de Sintra to overcome te
 
 The project includes:
 
-  # Propagation & Terrain Analysis
+  - **Propagation & Terrain Analysis**
   - Terrain profiling using Google Earth & Feixer tool
   - Earth curvature modelling (effective Earth radius factor k = 4/3)
   - Fresnel zone clearance validation
 
-  # RF Link Budget Design
+  - **RF Link Budget Design**
   - Free-space path loss calculation
   - Atmospheric attenuation modelling
   - Hydrometeor (rain) attenuation analysis
   - Carrier-to-noise ratio (C/N) computation
   - Fade margin dimensioning
 
-  # Multipath & Reliability
+  - **Multipath & Reliability**
   - Selective fading analysis
   - Equalization considerations
   - Spatial diversity gain evaluation
   - MTBF / MTTR modelling
   - Availability and performance assessment
 
-  # Standards Compliance
+  - **Standards Compliance**
   Verification against ITU-R constraints:
 
   - SESR (Severely Errored Second Ratio)
