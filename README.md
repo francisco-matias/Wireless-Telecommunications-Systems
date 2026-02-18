@@ -1,5 +1,5 @@
 # Wireless-Telecommunications-System
-Microwave Link Engineering &amp; Techno-Economic Optimization
+Microwave Link Engineering and Techno-Economic Optimization
 
 # Overview
 This project presents the complete engineering design and long-term economic assessment of a bidirectional 6 GHz microwave communication link between Cabo Raso and Alcochete (Portugal).
@@ -12,6 +12,8 @@ The objective was to design a reliable 140 Mbit/s digital transmission system wh
 
 The final solution includes an active repeater at Serra de Sintra to overcome terrain obstruction and ensure Fresnel clearance.
 
+...
+
 # System Specifications
 
 - Frequency: 6 GHz
@@ -22,35 +24,39 @@ The final solution includes an active repeater at Serra de Sintra to overcome te
 - Waveguides: Elliptical
 - Regulatory Framework: ITU-R standards + ANACOM spectrum licensing
 
+...
+
 # Engineering Analysis
 
 The project includes:
 
-  - **Propagation & Terrain Analysis**
+  ## Propagation & Terrain Analysis
     - Terrain profiling using Google Earth & Feixer tool
     - Earth curvature modelling (effective Earth radius factor k = 4/3)
     - Fresnel zone clearance validation
 
-  - **RF Link Budget Design**
+  ## RF Link Budget Design**
     - Free-space path loss calculation
     - Atmospheric attenuation modelling
     - Hydrometeor (rain) attenuation analysis
     - Carrier-to-noise ratio (C/N) computation
     - Fade margin dimensioning
 
-  - **Multipath & Reliability**
+  ## Multipath & Reliability**
     - Selective fading analysis
     - Equalization considerations
     - Spatial diversity gain evaluation
     - MTBF / MTTR modelling
     - Availability and performance assessment
 
-  - **Standards Compliance**
+  ## Standards Compliance**
 
     Verification against ITU-R constraints:
     - SESR (Severely Errored Second Ratio)
     - BBER (Background Block Error Ratio)
     - ESR (Errored Second Ratio)
+
+ ...
 
   # Techno-Economic Evaluation
   A full 25-year financial assessment was conducted including:
@@ -60,6 +66,8 @@ The project includes:
   - Break-even analysis
   - Long-term cost projection
   - Cost-per-service estimation
+
+...
 
 # Report
 Full technical documentation available here:
